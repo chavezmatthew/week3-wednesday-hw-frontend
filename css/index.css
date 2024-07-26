@@ -34,6 +34,7 @@ header .title {
 
 header .title:hover {
     transform: scale(1.05);
+    cursor: default;
 }
 
 .card {
